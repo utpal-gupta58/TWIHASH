@@ -1,4 +1,4 @@
-# TWIHASH
+
 
 ##ABSTRACT  
 	
@@ -7,4 +7,4 @@
   
  ##MOTIVATION
                                 
-                 Social media is a place for people to socialise and build relationships, but it also creates a great opportunity for the firms, companies to publicise their products. It can also be used for advertising. So it becomes crucial for these companies to know the current trends on social media to advertise their products correctly. So this requirement of prior knowledge of upcoming trends has motivated us to work on this objective. The objective of this project is to serve as many different ways like sometimes people post aggressive and outrageous content that can lead to violence in society so the prediction of upcoming trends can help police and other people to take early action on such issues.
+                 Social media is a place for people to socialise and build relationships, but it also creates a great opportunity for the firms, companies to publicise their products. It can also be used for advertising. So it becomes crucial for these companies to know the current trends on social media to advertise their products correctly. So this requirement of prior knowledge of upcoming trends has motivated us to work on this objective. The objective of this project is to serve as many different ways like sometimes people post aggressive and outrageous content that can lead to violence in society so the prediction of upcoming trends can help police and other people to take early action on such issues. 
